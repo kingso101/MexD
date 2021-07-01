@@ -3,17 +3,11 @@
 
 ### MexD
 
-Check out [MexDREADME.md](FHIR_README.md)
+Check out [MexDREADME.md](MexD_README.md)
 
 ### For Developers
 
-If using MexD directly from the code repository, then the following commands will build MexD (Node.js version 12.* or 14.* is required) :
-```shell
-composer install --no-dev
-npm install
-npm run build
-composer dump-autoload -o
-```
+If using MexD directly from the code repository, then the following commands will build MexD (PHP version 5.* or 7.* is required) :
 
 ### Contributors
 
